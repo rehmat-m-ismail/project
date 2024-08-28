@@ -1,0 +1,19 @@
+.img img{
+    margin-left: 3rem;
+    /* justify-content: space-evenly; */
+    margin-top: 7rem;
+    display: inline;
+}
+.row-4 img{
+    margin-top: 1rem;
+    margin-left: 4rem;
+}
+nav ul li{
+    margin-left: 3rem;
+}
+ul{
+    margin-left: 67rem;
+}
+.row-4, .a{
+    margin-left: -8rem;
+}
